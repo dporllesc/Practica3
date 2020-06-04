@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica3</string>
+    <string name="send_to">Enviar con:</string>
+    <string name="custom_camera">Capturar Imagen</string>
+</resources>
